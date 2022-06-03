@@ -1,0 +1,16 @@
+#first-heading{
+    color: red;
+    font-size: 25px;
+    font-weight: italic;
+}
+h1{
+    font-size: 30px;
+    color: blue;
+}
+h3{
+    text-decoration:underline;
+    text-decoration-style: dashed;
+}
+h4{
+    text-decoration: line-through;
+}
